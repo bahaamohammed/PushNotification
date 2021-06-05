@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "941187048468",
+    "project_id": "push-notification-f2388",
+    "storage_bucket": "push-notification-f2388.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:941187048468:android:571c29c009279e5617b301",
+        "android_client_info": {
+          "package_name": "com.bahaadev.pushnotification"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "941187048468-rshdcaic68o7v563c6ioifugegutjg2c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAhX8mi2PdooAAzXayPodkvtKhWAy3Vv7E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "941187048468-rshdcaic68o7v563c6ioifugegutjg2c.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
